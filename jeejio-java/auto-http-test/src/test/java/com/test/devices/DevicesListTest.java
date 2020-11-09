@@ -31,6 +31,7 @@ public class DevicesListTest {
              devicesListOpen.setUserCode(userCode);
              devicesListOpen.setUserId(userId);
              devicesListOpen.setToken(token);
+
              devicesListOpen.setSessionId(sessionId);
              String devicesListResult = devicesListService.devicesList(devicesListOpen);
              log.info("devicesListResult is {}",devicesListResult);
