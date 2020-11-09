@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="506422d6-03df-476f-8d5a-99d4c6e4cd4a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/auto-common-test/target/" />
+    <ignored path="$PROJECT_DIR$/auto-http-test/target/" />
+    <ignored path="$PROJECT_DIR$/jeejio/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/apply/ApplyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4421">
+              <caret line="245" lean-forward="true" selection-start-line="245" selection-end-line="245" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeejio/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/user/info/UserInfoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/user/UserInfoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/JudgeUserExistOpen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/apply/ApplyServiceImlp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/HttpDelegate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/SetUserInfoOpen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/user/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/ApiPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>:</find>
+      <find>Conten</find>
+      <find>text/plain</find>
+      <find>params</find>
+      <find>build</find>
+      <find>junit</find>
+      <find>vintage</find>
+      <find>test</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/LoginOpen.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/LoginOpen.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/LoginOutService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/LoginOutServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/HttpDelegate.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/LoginOutService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/LoginOutController.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/login.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/Login.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/Login.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/LoginOutService.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/LoginOpen.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/login/LoginOpen.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/LoginTest.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/login/LoginOutService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/LoginOutServiceImpl.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/login/LoginTest.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/login/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/login/LoginService.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/utils/uiils.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/DevicesListService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/devices/DevicesListServiceImpl.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/devices/DevicesListOpen.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/devices/DevicesListTest.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/HttpDelegate.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/apply/ApplyService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/apply/ApplyServiceImlp.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyList.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyInstall.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyUnInstall.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/devices/GetDevicesInstallApply.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/GetDevicesInstallApply.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/utils/utils.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/GetDevicesInstallApplyService.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/devices/GetDevicesInstallApplyImpl.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/devices/test.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyOpen.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyClose.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/SetUserInfo.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/SetUserInfoOpen.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/user/UserService.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/ApiPath.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/user/info/SetUserInfoImpl.java" />
+        <option value="$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/JudgeUserExistOpen.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/user/UserInfoTest.java" />
+        <option value="$PROJECT_DIR$/auto-http-test/src/test/java/com/test/apply/ApplyTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="auto-jeejio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="auto-jeejio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="auto-jeejio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="auto-jeejio-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2279" />
+    <option name="y" value="2" />
+    <option name="width" value="1094" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto-http-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto-http-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto-http-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto-http-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto-http-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeejio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-jeejio-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeejio-java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeejio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.imlp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+      <recent name="com.imlp" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jeejio-java\auto-http-test\src\test\resources\test\applydata\login" />
+      <recent name="E:\jeejio-java\auto-http-test\src\test" />
+      <recent name="E:\jeejio-java\auto-http-test\src\main\java" />
+      <recent name="E:\jeejio-java\auto-common-test\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplyTest">
+    <configuration name="ApplyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-http-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.apply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.apply" />
+      <option name="MAIN_CLASS_NAME" value="com.test.apply.ApplyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplyTest.testApplyClear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-http-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.apply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.apply" />
+      <option name="MAIN_CLASS_NAME" value="com.test.apply.ApplyTest" />
+      <option name="METHOD_NAME" value="testApplyClear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplyTest.testApplyClose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-http-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.apply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.apply" />
+      <option name="MAIN_CLASS_NAME" value="com.test.apply.ApplyTest" />
+      <option name="METHOD_NAME" value="testApplyClose" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplyTest.testApplyOpen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-http-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.apply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.apply" />
+      <option name="MAIN_CLASS_NAME" value="com.test.apply.ApplyTest" />
+      <option name="METHOD_NAME" value="testApplyOpen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoTest.testSetUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-http-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.user" />
+      <option name="MAIN_CLASS_NAME" value="com.test.user.UserInfoTest" />
+      <option name="METHOD_NAME" value="testSetUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplyTest" />
+        <item itemvalue="JUnit.ApplyTest.testApplyOpen" />
+        <item itemvalue="JUnit.ApplyTest.testApplyClose" />
+        <item itemvalue="JUnit.UserInfoTest.testSetUserInfo" />
+        <item itemvalue="JUnit.ApplyTest.testApplyClear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="506422d6-03df-476f-8d5a-99d4c6e4cd4a" name="Default Changelist" comment="" />
+      <created>1602660594780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602660594780</updated>
+      <workItem from="1602660598882" duration="3502000" />
+      <workItem from="1602664140082" duration="7722000" />
+      <workItem from="1603695107873" duration="5823000" />
+      <workItem from="1603776357349" duration="38699000" />
+      <workItem from="1604367553704" duration="22368000" />
+      <workItem from="1604472942104" duration="1680000" />
+      <workItem from="1604474653517" duration="33019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApplyTest_testApplyClose - 2020.11.09 at 09h 54m 02s.xml">
+      <configuration name="ApplyTest.testApplyClose" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest_testApplyOpen - 2020.11.09 at 09h 54m 38s.xml">
+      <configuration name="ApplyTest.testApplyOpen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest_testApplyClose - 2020.11.09 at 09h 55m 05s.xml">
+      <configuration name="ApplyTest.testApplyClose" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest_testApplyOpen - 2020.11.09 at 09h 55m 29s.xml">
+      <configuration name="ApplyTest.testApplyOpen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 09h 56m 36s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 09h 59m 24s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 10h 00m 18s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 10h 01m 19s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 10h 02m 17s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyTest - 2020.11.09 at 10h 03m 11s.xml">
+      <configuration name="ApplyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="2576" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25039744" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31419286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3347779" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.10676533" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.10731319" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/devices/DevicesListServiceImpl.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/BaseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/http/RequestEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="261" column="30" selection-start-line="261" selection-start-column="30" selection-end-line="261" selection-end-column="30" />
+          <folding>
+            <element signature="e#7131#7132#0" expanded="true" />
+            <element signature="e#7173#7174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.8/httpclient-4.5.8-sources.jar!/org/apache/http/client/methods/HttpPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/message/AbstractHttpMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+          <folding>
+            <element signature="e#3051#3052#0" expanded="true" />
+            <element signature="e#3101#3102#0" expanded="true" />
+            <element signature="e#3454#3455#0" expanded="true" />
+            <element signature="e#3507#3508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/HttpEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1861">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.8/httpclient-4.5.8-sources.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1949#1950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/entity/AbstractHttpEntity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11-sources.jar!/org/apache/http/entity/StringEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/login/LoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/apply/ApplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/JUnit4Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyInstall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/DevicesListService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/devices/DevicesListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyUnInstall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/devices/GetDevicesInstallApply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/GetDevicesInstallApplyService" />
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/devices/GetDevicesInstallApplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/internal/requests/FilterRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/devices/DevicesListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/devices/GetDevicesInstallApplyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5206">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/internal/requests/FilterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/runner/manipulation/Filter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13-sources.jar!/org/junit/runner/manipulation/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="155" column="52" selection-start-line="155" selection-start-column="48" selection-end-line="155" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/resources/test/applydata/login/testdata.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/resources/test/applydata/login/fgsdfg.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/devices/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/login/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/apply/ApplyClose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/utils/utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/devices/DevicesListOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/login/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/HttpDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/apply/ApplyServiceImlp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/SetUserInfoOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/service/user/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/main/java/com/imlp/user/info/UserInfoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/http/common/ApiPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-common-test/src/main/java/com/api/entity/user/JudgeUserExistOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/user/UserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeejio/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto-http-test/src/test/java/com/test/apply/ApplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4421">
+          <caret line="245" lean-forward="true" selection-start-line="245" selection-end-line="245" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|auto-common-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
